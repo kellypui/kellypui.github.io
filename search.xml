@@ -37,7 +37,7 @@
       <link href="/Gallery/practice.html"/>
       <url>/Gallery/practice.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p>![练习](C:\Users\miraj\Documents\hexxxo for hexxo\source\Gallery\色彩练习3.jpg)<br><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpKDNqIxbdF62xPydzDxrQHwfkWIy8rDd_zpy7DaXNz7CeeSEwfS5nSZruzE_YN4weXGAPKotQGoKyPjjo7zys4OILtkSuOQjGog0hwSW5rEqNFG5H-QCgN7m5p5EG73A8LqKtVUd7aQTLZDLP1VtZEnw_1ZYQUh4AV3DY5VJgGIv-rC7LjyD57s_3GA/s1920/%E8%89%B2%E5%BD%A9%E7%BB%83%E4%B9%A03.jpg" alt="练习"></p>          </div><hr>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://tse4.mm.bing.net/th?id=OIP.PlvUGahYRk6naoG60mrKmwHaEK&pid=Api&P=0" alt="二次元场景"></p>          </div><hr>]]></content>
       
     </entry>
     
@@ -77,17 +77,6 @@
     
     
     <entry>
-      <title>相册</title>
-      <link href="/galleryGroup/index.html"/>
-      <url>/galleryGroup/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">绘画练习</div>  <p>2022</p>  <a href='/Gallery/practice/'></a>  </figcaption>  </figure>  </div><hr><!-- <div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -99,11 +88,11 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>相册</title>
+      <link href="/galleryGroup/index.html"/>
+      <url>/galleryGroup/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">绘画练习</div>  <p>2022</p>  <a href='/Gallery/practice/'></a>  </figcaption>  </figure>  </div><hr><!-- <div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -124,6 +113,17 @@
       <title>Movie</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
