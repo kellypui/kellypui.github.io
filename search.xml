@@ -33,6 +33,17 @@
     
     
     <entry>
+      <title>Practice</title>
+      <link href="/Gallery/practice.html"/>
+      <url>/Gallery/practice.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/source%5CGallery%5Cpractice%5C%E8%89%B2%E5%BD%A9%E7%BB%83%E4%B9%A03.jpg" alt="苹果"></p>          </div><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Wallpaper</title>
       <link href="/Gallery/wallpaper.html"/>
       <url>/Gallery/wallpaper.html</url>
@@ -44,11 +55,55 @@
     
     
     <entry>
-      <title>Practice</title>
-      <link href="/Gallery/practice.html"/>
-      <url>/Gallery/practice.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8VqGt3Q4RYG7we1B1tVRRkVCrtlerMdckQQk6A95msjQsAfq7RCUaVogzxVFpR0o9e90Y1FXjvBOeVmILqU9oNs6UyNM3PcBcyovgLmsyROi8ki-JsXXFoCcBTY64AmZLeBom5FItbk8Mr183EzjBnCx94jdCAQPW5PtUwxUxsEM0qCbfZlToZ-01gQ/s1920/%E8%89%B2%E5%BD%A9%E7%BB%83%E4%B9%A03.jpg" alt="苹果"></p>          </div><hr>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* @font-face {  font-family: Candyhome;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);  font-display: swap;  font-weight: lighter;} */@font-face {  font-family: ZhuZiAYuanJWD;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);  font-display: swap;  font-weight: lighter;}div#menus {  font-family: 'ZhuZiAYuanJWD';}h1#site-title {  font-family: ZhuZiAYuanJWD;  font-size: 3em !important;}a.article-title,a.blog-slider__title,a.categoryBar-list-link,h1.post-title {  font-family: ZhuZiAYuanJWD;}.iconfont {  font-family: 'iconfont' !important;  font-size: 3em;  /* 可以定义图标大小 */  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}/* 时间轴生肖icon */svg.icon {  /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */  width: 1em;  height: 1em;  /* width和height定义图标的默认宽度和高度*/  vertical-align: -0.15em;  fill: currentColor;  overflow: hidden;}.icon-zhongbiao::before {  color: #f7c768;}/* bilibli番剧插件 */.bangumi-active {  background: #dbecfe !important;  border-radius: 10px !important;}a.bangumi-tab:hover {  text-decoration: none !important;}.bangumi-button:hover {  background: #dbecfe !important;  border-radius: 10px !important;}a.bangumi-button.bangumi-nextpage:hover {  text-decoration: none !important;}.bangumi-button {  padding: 5px 10px !important;}a.bangumi-tab {  padding: 5px 10px !important;}svg.icon.faa-tada {  font-size: 1.1em;}/* 解决artitalk的图标问题 */#uploadSource > svg {  width: 1.19em;  height: 1.5em;}/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */#page-header:not(.not-top-img):before {  background-color: transparent !important;}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: rgba(255, 255, 255, 0.9);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: rgba(255, 255, 255, 0.9);}/* 文章页面正文背景 */div#post {  background: rgba(255, 255, 255, 0.9);}/* 分页页面 */div#page {  background: rgba(255, 255, 255, 0.9);}/* 归档页面 */div#archive {  background: rgba(255, 255, 255, 0.9);}/* 标签页面 */div#tag {  background: rgba(255, 255, 255, 0.9);}/* 分类页面 */div#category {  background: rgba(255, 255, 255, 0.9);}/*夜间模式伪类遮罩层透明*/[data-theme='dark'] #recent-posts > .recent-post-item {  background: #121212;}[data-theme='dark'] .card-widget {  background: #121212 !important;}[data-theme='dark'] div#post {  background: #121212 !important;}[data-theme='dark'] div#tag {  background: #121212 !important;}[data-theme='dark'] div#archive {  background: #121212 !important;}[data-theme='dark'] div#page {  background: #121212 !important;}[data-theme='dark'] div#category {  background: #121212 !important;}[data-theme='dark'] div#category {  background: transparent !important;}/* 页脚透明 */#footer {  background: transparent !important;}/* 头图透明 */#page-header {  background: transparent !important;}#rightside > div > button {  border-radius: 5px;}/* 滚动条 */::-webkit-scrollbar {  width: 10px;  height: 10px;}::-webkit-scrollbar-thumb {  background-color: #5CA1FF;  border-radius: 2em;}::-webkit-scrollbar-corner {  background-color: transparent;}::-moz-selection {  color: #fff;  background-color: #5CA1FF;}/* 音乐播放器 *//* .aplayer .aplayer-lrc {  display: none !important;} */.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {  left: -66px !important;  transition: all 0.3s;  /* 默认情况下缩进左侧66px，只留一点箭头部分 */}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {  left: 0 !important;  transition: all 0.3s;  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */}.aplayer.aplayer-fixed {  z-index: 999999 !important;}/* 评论框  */.vwrap {  box-shadow: 2px 2px 5px #bbb;  background: rgba(255, 255, 255, 0.3);  border-radius: 8px;  padding: 30px;  margin: 30px 0px 30px 0px;}/* 设置评论框 */.vcard {  box-shadow: 2px 2px 5px #bbb;  background: rgba(255, 255, 255, 0.3);  border-radius: 8px;  padding: 30px;  margin: 30px 0px 0px 0px;}/* 鼠标图标 */body {  cursor: url('/img/x1.cur'), auto;}a,[type='button']:not(:disabled),[type='reset']:not(:disabled),[type='submit']:not(:disabled),button:not(:disabled) {  cursor: url('/img/x2.cur'), auto !important;}/* md网站下划线 */#article-container a:hover {  text-decoration: none !important;}#article-container #hpp_talk p img {  display: inline;}/* 404页面 */#error-wrap {  position: absolute;  top: 40%;  right: 0;  left: 0;  margin: 0 auto;  padding: 0 1rem;  max-width: 1000px;  transform: translate(0, -50%);}#error-wrap .error-content {  display: flex;  flex-direction: row;  justify-content: center;  align-items: center;  margin: 0 1rem;  height: 18rem;  border-radius: 8px;  background: var(--card-bg);  box-shadow: var(--card-box-shadow);  transition: all 0.3s;}#error-wrap .error-content .error-img {  box-flex: 1;  flex: 1;  height: 100%;  border-top-left-radius: 8px;  border-bottom-left-radius: 8px;  background-color: #5CA1FF;  background-position: center;  background-size: cover;}#error-wrap .error-content .error-info {  box-flex: 1;  flex: 1;  padding: 0.5rem;  text-align: center;  font-size: 14px;  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;}#error-wrap .error-content .error-info .error_title {  margin-top: -4rem;  font-size: 9em;}#error-wrap .error-content .error-info .error_subtitle {  margin-top: -3.5rem;  word-break: break-word;  font-size: 1.6em;}#error-wrap .error-content .error-info a {  display: inline-block;  margin-top: 0.5rem;  padding: 0.3rem 1.5rem;  background: var(--btn-bg);  color: var(--btn-color);}#body-wrap.error .aside-list {  display: flex;  flex-direction: row;  flex-wrap: nowrap;  bottom: 0px;  position: absolute;  padding: 1rem;  width: 100%;  overflow: scroll;}#body-wrap.error .aside-list .aside-list-group {  display: flex;  flex-direction: row;  flex-wrap: nowrap;  max-width: 1200px;  margin: 0 auto;}#body-wrap.error .aside-list .aside-list-item {  padding: 0.5rem;}#body-wrap.error .aside-list .aside-list-item img {  width: 100%;  object-fit: cover;  border-radius: 12px;}#body-wrap.error .aside-list .aside-list-item .thumbnail {  overflow: hidden;  width: 230px;  height: 143px;  background: var(--heo-card-bg);  display: flex;}#body-wrap.error .aside-list .aside-list-item .content .title {  -webkit-line-clamp: 2;  overflow: hidden;  display: -webkit-box;  -webkit-box-orient: vertical;  line-height: 1.5;  justify-content: center;  align-items: flex-end;  align-content: center;  padding-top: 0.5rem;  color: white;}#body-wrap.error .aside-list .aside-list-item .content time {  display: none;}/* 代码框主题 */#article-container figure.highlight {  border-radius: 10px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/galleryGroup/index.html"/>
+      <url>/galleryGroup/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">绘画练习</div>  <p>2022</p>  <a href='/Gallery/practice/'></a>  </figcaption>  </figure>  </div><hr><!-- <div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -58,17 +113,6 @@
       <title>Movie</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -91,50 +135,6 @@
       <title>Link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* @font-face {  font-family: Candyhome;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);  font-display: swap;  font-weight: lighter;} */@font-face {  font-family: ZhuZiAYuanJWD;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);  font-display: swap;  font-weight: lighter;}div#menus {  font-family: 'ZhuZiAYuanJWD';}h1#site-title {  font-family: ZhuZiAYuanJWD;  font-size: 3em !important;}a.article-title,a.blog-slider__title,a.categoryBar-list-link,h1.post-title {  font-family: ZhuZiAYuanJWD;}.iconfont {  font-family: 'iconfont' !important;  font-size: 3em;  /* 可以定义图标大小 */  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}/* 时间轴生肖icon */svg.icon {  /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */  width: 1em;  height: 1em;  /* width和height定义图标的默认宽度和高度*/  vertical-align: -0.15em;  fill: currentColor;  overflow: hidden;}.icon-zhongbiao::before {  color: #f7c768;}/* bilibli番剧插件 */.bangumi-active {  background: #dbecfe !important;  border-radius: 10px !important;}a.bangumi-tab:hover {  text-decoration: none !important;}.bangumi-button:hover {  background: #dbecfe !important;  border-radius: 10px !important;}a.bangumi-button.bangumi-nextpage:hover {  text-decoration: none !important;}.bangumi-button {  padding: 5px 10px !important;}a.bangumi-tab {  padding: 5px 10px !important;}svg.icon.faa-tada {  font-size: 1.1em;}/* 解决artitalk的图标问题 */#uploadSource > svg {  width: 1.19em;  height: 1.5em;}/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */#page-header:not(.not-top-img):before {  background-color: transparent !important;}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: rgba(255, 255, 255, 0.9);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: rgba(255, 255, 255, 0.9);}/* 文章页面正文背景 */div#post {  background: rgba(255, 255, 255, 0.9);}/* 分页页面 */div#page {  background: rgba(255, 255, 255, 0.9);}/* 归档页面 */div#archive {  background: rgba(255, 255, 255, 0.9);}/* 标签页面 */div#tag {  background: rgba(255, 255, 255, 0.9);}/* 分类页面 */div#category {  background: rgba(255, 255, 255, 0.9);}/*夜间模式伪类遮罩层透明*/[data-theme='dark'] #recent-posts > .recent-post-item {  background: #121212;}[data-theme='dark'] .card-widget {  background: #121212 !important;}[data-theme='dark'] div#post {  background: #121212 !important;}[data-theme='dark'] div#tag {  background: #121212 !important;}[data-theme='dark'] div#archive {  background: #121212 !important;}[data-theme='dark'] div#page {  background: #121212 !important;}[data-theme='dark'] div#category {  background: #121212 !important;}[data-theme='dark'] div#category {  background: transparent !important;}/* 页脚透明 */#footer {  background: transparent !important;}/* 头图透明 */#page-header {  background: transparent !important;}#rightside > div > button {  border-radius: 5px;}/* 滚动条 */::-webkit-scrollbar {  width: 10px;  height: 10px;}::-webkit-scrollbar-thumb {  background-color: #5CA1FF;  border-radius: 2em;}::-webkit-scrollbar-corner {  background-color: transparent;}::-moz-selection {  color: #fff;  background-color: #5CA1FF;}/* 音乐播放器 *//* .aplayer .aplayer-lrc {  display: none !important;} */.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {  left: -66px !important;  transition: all 0.3s;  /* 默认情况下缩进左侧66px，只留一点箭头部分 */}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {  left: 0 !important;  transition: all 0.3s;  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */}.aplayer.aplayer-fixed {  z-index: 999999 !important;}/* 评论框  */.vwrap {  box-shadow: 2px 2px 5px #bbb;  background: rgba(255, 255, 255, 0.3);  border-radius: 8px;  padding: 30px;  margin: 30px 0px 30px 0px;}/* 设置评论框 */.vcard {  box-shadow: 2px 2px 5px #bbb;  background: rgba(255, 255, 255, 0.3);  border-radius: 8px;  padding: 30px;  margin: 30px 0px 0px 0px;}/* 鼠标图标 */body {  cursor: url('/img/x1.cur'), auto;}a,[type='button']:not(:disabled),[type='reset']:not(:disabled),[type='submit']:not(:disabled),button:not(:disabled) {  cursor: url('/img/x2.cur'), auto !important;}/* md网站下划线 */#article-container a:hover {  text-decoration: none !important;}#article-container #hpp_talk p img {  display: inline;}/* 404页面 */#error-wrap {  position: absolute;  top: 40%;  right: 0;  left: 0;  margin: 0 auto;  padding: 0 1rem;  max-width: 1000px;  transform: translate(0, -50%);}#error-wrap .error-content {  display: flex;  flex-direction: row;  justify-content: center;  align-items: center;  margin: 0 1rem;  height: 18rem;  border-radius: 8px;  background: var(--card-bg);  box-shadow: var(--card-box-shadow);  transition: all 0.3s;}#error-wrap .error-content .error-img {  box-flex: 1;  flex: 1;  height: 100%;  border-top-left-radius: 8px;  border-bottom-left-radius: 8px;  background-color: #5CA1FF;  background-position: center;  background-size: cover;}#error-wrap .error-content .error-info {  box-flex: 1;  flex: 1;  padding: 0.5rem;  text-align: center;  font-size: 14px;  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;}#error-wrap .error-content .error-info .error_title {  margin-top: -4rem;  font-size: 9em;}#error-wrap .error-content .error-info .error_subtitle {  margin-top: -3.5rem;  word-break: break-word;  font-size: 1.6em;}#error-wrap .error-content .error-info a {  display: inline-block;  margin-top: 0.5rem;  padding: 0.3rem 1.5rem;  background: var(--btn-bg);  color: var(--btn-color);}#body-wrap.error .aside-list {  display: flex;  flex-direction: row;  flex-wrap: nowrap;  bottom: 0px;  position: absolute;  padding: 1rem;  width: 100%;  overflow: scroll;}#body-wrap.error .aside-list .aside-list-group {  display: flex;  flex-direction: row;  flex-wrap: nowrap;  max-width: 1200px;  margin: 0 auto;}#body-wrap.error .aside-list .aside-list-item {  padding: 0.5rem;}#body-wrap.error .aside-list .aside-list-item img {  width: 100%;  object-fit: cover;  border-radius: 12px;}#body-wrap.error .aside-list .aside-list-item .thumbnail {  overflow: hidden;  width: 230px;  height: 143px;  background: var(--heo-card-bg);  display: flex;}#body-wrap.error .aside-list .aside-list-item .content .title {  -webkit-line-clamp: 2;  overflow: hidden;  display: -webkit-box;  -webkit-box-orient: vertical;  line-height: 1.5;  justify-content: center;  align-items: flex-end;  align-content: center;  padding-top: 0.5rem;  color: white;}#body-wrap.error .aside-list .aside-list-item .content time {  display: none;}/* 代码框主题 */#article-container figure.highlight {  border-radius: 10px;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>相册</title>
-      <link href="/galleryGroup/index.html"/>
-      <url>/galleryGroup/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">绘画练习</div>  <p>2022</p>  <a href='/Gallery/practice/'></a>  </figcaption>  </figure>  </div><hr><!-- <div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
