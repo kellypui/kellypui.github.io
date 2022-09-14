@@ -33,28 +33,6 @@
     
     
     <entry>
-      <title>Wallpaper</title>
-      <link href="/Gallery/wallpaper.html"/>
-      <url>/Gallery/wallpaper.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://tse4.mm.bing.net/th?id=OIP.PlvUGahYRk6naoG60mrKmwHaEK&pid=Api&P=0" alt="二次元场景"></p>          </div><hr>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Practice</title>
-      <link href="/Gallery/practice.html"/>
-      <url>/Gallery/practice.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s1.ax1x.com/2022/09/14/vvP9oT.jpg" alt="练习"></p>          </div><hr>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -137,6 +115,28 @@
       <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wallpaper</title>
+      <link href="/Gallery/Wallpaper/wallpaper.html"/>
+      <url>/Gallery/Wallpaper/wallpaper.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://tse4.mm.bing.net/th?id=OIP.PlvUGahYRk6naoG60mrKmwHaEK&pid=Api&P=0" alt="二次元场景"></p>          </div><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Practice</title>
+      <link href="/Gallery/practice/practice.html"/>
+      <url>/Gallery/practice/practice.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s1.ax1x.com/2022/09/14/vvP9oT.jpg" alt="练习"></p>          </div><hr>]]></content>
       
     </entry>
     
