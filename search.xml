@@ -33,6 +33,17 @@
     
     
     <entry>
+      <title>Practice</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s1.ax1x.com/2022/09/14/vvP9oT.jpg" alt="练习"></p>          </div><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -77,17 +88,6 @@
     
     
     <entry>
-      <title>Movie</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -110,9 +110,9 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>Movie</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -121,11 +121,11 @@
     
     
     <entry>
-      <title>Practice</title>
-      <link href="/Gallery/practice/index.html"/>
-      <url>/Gallery/practice/index.html</url>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s1.ax1x.com/2022/09/14/vvP9oT.jpg" alt="练习"></p>          </div><hr>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
