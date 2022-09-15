@@ -44,17 +44,6 @@
     
     
     <entry>
-      <title>gallery</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -77,9 +66,9 @@
     
     
     <entry>
-      <title>Movie</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>gallery</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,9 +77,9 @@
     
     
     <entry>
-      <title>Link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>Movie</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -110,9 +99,9 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>Link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -121,9 +110,9 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -137,6 +126,17 @@
       <url>/gallery1/Wallpaper/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://tse4.mm.bing.net/th?id=OIP.PlvUGahYRk6naoG60mrKmwHaEK&pid=Api&P=0" alt="二次元场景"></p>          </div><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
